@@ -1,0 +1,5 @@
+#data de nascimento
+dia = input ('qual dia você nasceu?')
+mês = input ('coloque o mês:')
+ano = input ('ano de nascimento:')
+print ( 'você nasceu no dia',dia,'de', mês , "de", ano)
